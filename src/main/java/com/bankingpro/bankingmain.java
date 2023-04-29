@@ -151,24 +151,6 @@ public class bankingmain{
 		    			System.out.println("something went wrong");
 		    		}
 		    	}
-		  
-		    	
-		    	
-		    	
-		    	
-		    	
-		    	
-		    	
-		    	
-		    	
-		    	
-		    	
-		    	
-		    	
-		    	
-		    	
-		    	
-		    	
 		   }
 		    	
 		    }
